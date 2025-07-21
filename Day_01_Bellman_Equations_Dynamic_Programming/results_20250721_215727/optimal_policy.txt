@@ -1,0 +1,6 @@
+# Optimal Policy π*(s) - Actions: 0=UP, 1=DOWN, 2=LEFT, 3=RIGHT
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+3 3 3 3 0

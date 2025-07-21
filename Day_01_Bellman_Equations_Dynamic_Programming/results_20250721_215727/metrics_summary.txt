@@ -1,0 +1,9 @@
+VALUE ITERATION METRICS SUMMARY
+========================================
+
+iterations: 9
+converged: True
+final_delta: 0.0
+grid_size: 5
+discount_factor: 0.9
+threshold: 1e-06
